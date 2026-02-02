@@ -6,9 +6,9 @@
  ## Description
 
  `01-Animals.ipynb` is the basics of building a pandas cheat sheet.
- - Used things like: `.info`, `.head`, `.sort_values`, `plot`, multiple conditions, etc. 
-
  `02-Billionaires.ipynb` is a dataframe used to answer a lot of questions in this homework, which is focused on the basic aspects of pandas. 
+
+ - Used things like: `.info`, `.head`, `.sort_values`, `plot`, multiple conditions, etc. 
 
  ## Python libraries needed/installed:
  
