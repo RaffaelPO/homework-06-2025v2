@@ -1,17 +1,21 @@
 # Homework assignment of the 2024 Lede Program
  
- This assignment was completed on 3rd of February 2025.
- Both jupyter notebooks you can find in this repository are an introduction on the basics of using pandas.
+This repository contains a homework assignment completed as part of the **[Lede Program](https://ledeprogram.com/) 2024** edition.
+The work was finished on February 3, 2025, and focuses on building foundational skills in data analysis with pandas.
 
  ## Description
 
- `01-Animals.ipynb` is the basics of building a pandas cheat sheet.
- `02-Billionaires.ipynb` is a dataframe used to answer a lot of questions in this homework, which is focused on the basic aspects of pandas. 
+The repository includes two Jupyter notebooks designed as an introduction to pandas and basic data exploration techniques:
+ `01-Animals.ipynb`: an introductory notebook that functions as a pandas cheat sheet, covering core concepts and commonly used methods.
+ `02-Billionaires.ipynb`: a data analysis exercise based on a billionaires dataset, used to answer a series of questions and practice essential pandas operations. 
 
- - Used things like: `.info`, `.head`, `.sort_values`, `plot`, multiple conditions, etc. 
+ Throughout the assignment, the focus is on understanding and applying fundamental pandas functionality, including: 
+ - Data inspection: `.info()`, `.head()`;
+ - Sorting, counting and filtering: `.sort_values()`, `value_counts()`, and multiple conditions;
+ - Basic data visualization: `plot`;
+ - General dataframe manipulation and exploration
 
- ## Python libraries needed/installed:
- 
+ ### Python libraries needed/installed: 
 - pandas
 - matplotlib
 - openpyxl 
